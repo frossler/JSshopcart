@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: "Righteous", cursive;
+}
+
+body {
+    background-color: #AA2B1D;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Righteous", cursive;
+}
+
+.head-title {
+    color: #fb9300;
+    text-shadow: 3px 3px #f54748, 6px 6px #BECA5C, 9px 9px #fb9300;
+    font-size: 150px;
+}
+
+.custom-btn {
+    background-color: #BECA5C;
+    color: black;
+}
+
+.custom-btn:hover {
+    background-color: #BECA5C;
+    color: white;
+}
+
+.thumbnail {
+    height: 18rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+#pop-up {
+    width: 50%;
+    margin: 0 auto;
+    padding: 5rem 2rem 2rem 2rem;
+    border-radius: 2rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(50%, 50%);
+    display: none;
+}
+
+#pop-up.active {
+    display: block;
+}
