@@ -40,7 +40,7 @@ const renderFooter = () => {
     console.log(nPrice);
 
     footerTemplate.querySelectorAll('td')[0].textContent = nQuantity;
-    footerTemplate.querySelectorAll('span').textContent = nQuantity;
+    footerTemplate.querySelector('span').textContent = nPrice;
 
     const clone = footerTemplate.cloneNode(true);
     fragment.appendChild(clone);
