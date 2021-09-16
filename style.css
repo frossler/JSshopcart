@@ -11,13 +11,22 @@ html, body {
 body {
     background-color: #AA2B1D;
 }
-h1, h2, h3, h4, h5, h6 {
+h1 {
     font-family: "Righteous", cursive;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
 }
 
 .head-title {
     color: #fb9300;
-    text-shadow: 3px 3px #f54748, 6px 6px #BECA5C, 9px 9px #fb9300;
+    text-shadow: 3px 3px #f54748, 6px 6px #BECA5C, 9px 9px #693d00, 11px 11px #fb9300;
     font-size: 150px;
 }
 
