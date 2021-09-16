@@ -1,0 +1,38 @@
+[
+    {
+      "price": 550,
+      "id": 1,
+      "title": "Hamburguesa Yankee",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1542574271-7f3b92e6c821?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "price": 300,
+      "id": 2,
+      "title": "Papas fritas Porción",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "price": 150,
+      "id": 3,
+      "title": "Vaso Gaseosa",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1561935992-d4b2a39ca79a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1131&q=80"
+    },
+    {
+      "price": 500,
+      "id": 4,
+      "title": "Sandwich",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "price": 350,
+      "id": 5,
+      "title": "Postre",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80"
+    },
+    {
+      "price": 480,
+      "id": 6,
+      "title": "Ensalada Veggie",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ]
