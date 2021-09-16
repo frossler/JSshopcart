@@ -1,2 +1,1 @@
-# JSstuff
-JS practice
+This shopchart was made with JS
